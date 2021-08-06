@@ -37,7 +37,7 @@ Contiene una variedad de subrutinas que cumplen diferentes funciones:
 
 Carpeta CNA y desviaciones contiene archivos que hacen cálculos con lectura de archivos, no dependen de main.f90:
 
--cnaport.f90: Calcula la microestructura de una configuración.
+-cnaport.f90: Calcula la microestructura de una configuración utilizando el método de análisis de vecinos comunes.
 
 -desviación.f90: Calcula la desviación media de una columna de datos.
 
