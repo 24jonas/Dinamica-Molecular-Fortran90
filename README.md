@@ -42,4 +42,6 @@ Carpeta CNA y desviaciones contiene archivos que hacen cálculos con lectura de 
 -desviación.f90: Calcula la desviación media de una columna de datos.
 
 
+-----------------------------------
 
+Se incluye ejemplo de archivos de resultados .txt generados por el programa.
