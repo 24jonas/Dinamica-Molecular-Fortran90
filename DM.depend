@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1626907117 source:c:\users\jonas\google drive\school\tesis dm\dm\main.f90
+
+1615154342 source:c:\users\jonas\google drive\school\tesis dm\dm\configinireg.f90
+
+1615155484 source:c:\users\jonas\google drive\school\tesis dm\dm\distlineaml.f90
+
+1615154341 source:c:\users\jonas\google drive\school\tesis dm\dm\configiniale.f90
+
+1618979865 source:c:\users\jonas\google drive\school\tesis dm\dm\fuerzas.f90
+
+1615503394 source:c:\users\jonas\google drive\school\tesis dm\dm\verlet.f90
+
+1615503904 source:c:\users\jonas\google drive\school\tesis dm\dm\veliniale.f90
+
+1626907201 source:c:\users\jonas\google drive\school\tesis dm\dm\gdr.f90
+
+1618272078 source:c:\users\jonas\google drive\school\tesis dm\dm\wvdt.f90
+
+1620091755 source:c:\users\jonas\google drive\school\tesis dm\dm\cna.f90
+
+1615008103 source:c:\users\jonas\google drive\school\tesis dm\dm\sort.f90
+
+1611888612 source:c:\users\jonas\google drive\school\tesis dm\dm\heatcap.f90
+
+1611888382 source:c:\users\jonas\google drive\school\tesis dm\dm\presion.f90
+
+1612304447 source:c:\users\jonas\google drive\school\tesis dm\dm\veldist.f90
+
+1616789890 source:c:\users\jonas\google drive\school\tesis dm\dm\instgdr.f90
+
+1615402140 source:c:\users\jonas\google drive\school\tesis dm\dm\predict.f90
+
+1615412615 source:c:\users\jonas\google drive\school\tesis dm\dm\correct.f90
+
+1613759480 source:c:\users\jonas\google drive\school\tesis dm\dm\configinifcc.f90
+
+1613703716 source:c:\users\jonas\google drive\school\tesis dm\dm\fccsize.f90
+
+1615154342 source:c:\users\jonas\google drive\school\tesis dm\dm\configinifccalt.f90
+
+1615490527 source:c:\users\jonas\google drive\school\tesis dm\dm\fuerzaefrain.f90
+
+1615491621 source:c:\users\jonas\google drive\school\tesis dm\dm\predictefrain.f90
+
+1615502953 source:c:\users\jonas\google drive\school\tesis dm\dm\correctefrain.f90
+
+1616792710 source:c:\users\jonas\google drive\school\tesis dm\dm\dev.f90
+
+1616792710 source:c:\users\jonas\google drive\school\tesis dm\dm público\dev.f90
+
+1615155484 source:c:\users\jonas\google drive\school\tesis dm\dm público\distlineaml.f90
+
+1613703716 source:c:\users\jonas\google drive\school\tesis dm\dm público\fccsize.f90
+
+1618979865 source:c:\users\jonas\google drive\school\tesis dm\dm público\fuerzas.f90
+
+1628287324 source:c:\users\jonas\google drive\school\tesis dm\dm público\gdr.f90
+
+1616789890 source:c:\users\jonas\google drive\school\tesis dm\dm público\instgdr.f90
+
+1628287381 source:c:\users\jonas\google drive\school\tesis dm\dm público\predictefrain.f90
+
+1611888382 source:c:\users\jonas\google drive\school\tesis dm\dm público\presion.f90
+
+1615008103 source:c:\users\jonas\google drive\school\tesis dm\dm público\sort.f90
+
+1618272078 source:c:\users\jonas\google drive\school\tesis dm\dm público\wvdt.f90
+
+1628286963 source:c:\users\jonas\google drive\school\tesis dm\dm público\configiniale.f90
+
+1628287055 source:c:\users\jonas\google drive\school\tesis dm\dm público\configinifccalt.f90
+
+1628287091 source:c:\users\jonas\google drive\school\tesis dm\dm público\configinireg.f90
+
+1628286913 source:c:\users\jonas\google drive\school\tesis dm\dm público\main.f90
+
+1628287067 source:c:\users\jonas\google drive\school\tesis dm\dm público\veliniale.f90
+
+1628287385 source:c:\users\jonas\google drive\school\tesis dm\dm público\correctefrain.f90
+
